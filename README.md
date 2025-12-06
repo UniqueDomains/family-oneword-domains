@@ -21,7 +21,7 @@ If you want to search & filters the complete database of [.FAMILY one word domai
 
 | Domain            | Status    | Attract. | Demand | Length | Registrar | Created | Expires |
 | ----------------- | --------- | -------- | ------ | ------ | --------- | ------- | ------- |
-| aaa.family        | available | 70       | 38%    | 3      |           |         |         |
+| aaa.family        | premium   | 70       | 38%    | 3      |           |         |         |
 | abactinal.family  | available | 50       | 1%     | 9      |           |         |         |
 | abaft.family      | available | 43       | 2%     | 5      |           |         |         |
 | abandoned.family  | available | 58       | 7%     | 9      |           |         |         |
@@ -31,7 +31,7 @@ If you want to search & filters the complete database of [.FAMILY one word domai
 | abatic.family     | available | 54       | 2%     | 6      |           |         |         |
 | abaxial.family    | available | 54       | 2%     | 7      |           |         |         |
 | abbatial.family   | available | 50       | 1%     | 8      |           |         |         |
-| abc.family        | available | 102      | 41%    | 3      |           |         |         |
+| abc.family        | premium   | 102      | 41%    | 3      |           |         |         |
 | abdicable.family  | available | 50       | 1%     | 9      |           |         |         |
 | abdominal.family  | available | 82       | 5%     | 9      |           |         |         |
 | abdominous.family | available | 56       | 1%     | 10     |           |         |         |
