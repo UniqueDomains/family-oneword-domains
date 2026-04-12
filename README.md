@@ -72,7 +72,7 @@ print(df.head())
 | cloud.family     | premium   | $520      | $520          | 70             | 59     | 5      | namecheap         |
 | awake.family     | available | $9.99     | —             | 86             | 39     | 5      | name.com          |
 | jesus.family     | resell    | —         | —             | 126            | 52     | 5      | Spaceship, Inc.   |
-| zero.family      | premium   | $75       | $75           | 112            | 54     | 4      | name.com          |
+| zero.family      | premium   | $75       | $75           | 112            | 53     | 4      | name.com          |
 | drop.family      | available | $9.99     | $50.99        | 86             | 38     | 4      | name.com          |
 | web.family       | resell    | —         | —             | 72             | 50     | 3      | NameCheap, Inc.   |
 | business.family  | premium   | $1,300    | $1,300        | 100            | 53     | 8      | namecheap         |
