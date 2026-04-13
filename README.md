@@ -76,13 +76,13 @@ print(df.head())
 | awake.family     | available | $9.99     | —             | 86             | 38     | 5      | name.com          |
 | web.family       | resell    | —         | —             | 72             | 50     | 3      | NameCheap, Inc.   |
 | business.family  | premium   | $1,300    | $1,300        | 100            | 53     | 8      | namecheap         |
-| check.family     | available | $9.99     | $50.99        | 76             | 38     | 5      | name.com          |
+| risk.family      | available | $49.98    | —             | 62             | 38     | 4      | namecheap         |
 | brain.family     | resell    | —         | —             | 70             | 50     | 5      | Sav.com, LLC - 34 |
 | athletics.family | premium   | $260      | $260          | 69             | 52     | 9      | namecheap         |
-| risk.family      | available | $49.98    | —             | 62             | 38     | 4      | namecheap         |
+| terminal.family  | available | $9.99     | $50.99        | 104            | 37     | 8      | name.com          |
 | for.family       | resell    | —         | —             | 80             | 49     | 3      | GoDaddy.com, LLC  |
 | game.family      | premium   | $3,125    | $3,125        | 120            | 50     | 4      | name.com          |
-| terminal.family  | available | $9.99     | $50.99        | 104            | 36     | 8      | name.com          |
+| check.family     | available | $9.99     | $50.99        | 76             | 37     | 5      | name.com          |
 | epic.family      | resell    | —         | —             | 102            | 47     | 4      | GoDaddy.com, LLC  |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
