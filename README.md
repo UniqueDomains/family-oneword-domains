@@ -16,7 +16,7 @@ Daily-updated dataset of available and resale .family one-word domains from Uniq
 
 **Public extract:** 8,789 rows · **Live catalog:** 8,789 domains
 
-**Last updated:** 2026-04-12  
+**Last updated:** 2026-04-13  
 **Canonical page:** `https://unique.domains/domains/tld/family`  
 **Best for:** founders, investors, studios
 
@@ -70,10 +70,10 @@ print(df.head())
 | pop.family       | available | $9.99     | $50.99        | 82             | 43     | 3      | name.com          |
 | bot.family       | resell    | —         | —             | 98             | 53     | 3      | Sav.com, LLC - 7  |
 | cloud.family     | premium   | $520      | $520          | 70             | 59     | 5      | namecheap         |
-| awake.family     | available | $9.99     | —             | 86             | 39     | 5      | name.com          |
+| drop.family      | available | $9.99     | $50.99        | 86             | 38     | 4      | name.com          |
 | jesus.family     | resell    | —         | —             | 126            | 52     | 5      | Spaceship, Inc.   |
 | zero.family      | premium   | $75       | $75           | 112            | 53     | 4      | name.com          |
-| drop.family      | available | $9.99     | $50.99        | 86             | 38     | 4      | name.com          |
+| awake.family     | available | $9.99     | —             | 86             | 38     | 5      | name.com          |
 | web.family       | resell    | —         | —             | 72             | 50     | 3      | NameCheap, Inc.   |
 | business.family  | premium   | $1,300    | $1,300        | 100            | 53     | 8      | namecheap         |
 | check.family     | available | $9.99     | $50.99        | 76             | 38     | 5      | name.com          |
@@ -143,7 +143,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .FAMILY One-Word Domains*. Version 2026-04-12. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .FAMILY One-Word Domains*. Version 2026-04-13. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
