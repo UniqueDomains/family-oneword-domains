@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .family one-word domains fr
 
 **Public extract:** 1,000 rows · **Live catalog:** 11,700 domains · **Median ask:** $53.64 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-17  
+**Last updated:** 2026-05-27  
 **Canonical page:** `https://unique.domains/domains/tld/family`  
 **Best for:** founders, investors, studios
 
@@ -72,18 +72,18 @@ print(df.head())
 | travelers.family    | premium   | $118.80   | $118.80       | 58             | 61     | 9      | namesilo  |
 | has.family          | available | $9.99     | —             | 60             | 26     | 3      | name.com  |
 | events.family       | premium   | $250      | —             | 68             | 37     | 6      | name.com  |
-| boats.family        | available | $9.99     | —             | 52             | 24     | 5      | name.com  |
+| inhouse.family      | available | $9.99     | —             | 70             | 24     | 8      | name.com  |
 | maps.family         | premium   | $250      | —             | 56             | 31     | 4      | name.com  |
-| deeplearning.family | available | $9.99     | —             | 74             | 23     | 13     | name.com  |
+| boats.family        | available | $9.99     | —             | 52             | 24     | 5      | name.com  |
 | solutions.family    | premium   | $75       | —             | 56             | 31     | 9      | name.com  |
-| inhouse.family      | available | $9.99     | —             | 70             | 23     | 8      | name.com  |
-| inspiration.family  | premium   | $75       | —             | 88             | 30     | 11     | name.com  |
-| stadia.family       | available | $9.99     | —             | 66             | 22     | 6      | name.com  |
+| deeplearning.family | available | $9.99     | —             | 74             | 23     | 13     | name.com  |
 | videos.family       | premium   | $1,250    | —             | 52             | 30     | 6      | name.com  |
-| herbs.family        | available | $9.99     | —             | 62             | 22     | 5      | name.com  |
+| stadia.family       | available | $9.99     | —             | 66             | 22     | 6      | name.com  |
 | quotes.family       | premium   | $75       | —             | 58             | 29     | 6      | name.com  |
-| makeit.family       | available | $9.99     | —             | 82             | 21     | 7      | name.com  |
+| herbs.family        | available | $9.99     | —             | 62             | 22     | 5      | name.com  |
 | photos.family       | premium   | $1,250    | —             | 54             | 28     | 6      | name.com  |
+| makeit.family       | available | $9.99     | —             | 82             | 21     | 7      | name.com  |
+| inspiration.family  | premium   | $75       | —             | 88             | 27     | 11     | name.com  |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .FAMILY One-Word Domains*. Version 2026-05-17. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .FAMILY One-Word Domains*. Version 2026-05-27. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
