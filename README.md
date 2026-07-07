@@ -14,10 +14,10 @@ Daily-updated public extract of available and resale .family one-word domains fr
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
 > The full live catalog for this exact search currently contains **11,700 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 11,700 domains · **Median ask:** $53.64 · **High-demand under $2,500:** 0
+**Public extract:** 1,000 rows · **Live catalog:** 11,700 domains · **Median ask:** $72.33 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-27  
-**Canonical page:** `https://unique.domains/domains/tld/family`  
+**Last updated:** 2026-07-07
+**Canonical page:** `https://unique.domains/domains/tld/family`
 **Best for:** founders, investors, studios
 
 ---
@@ -43,13 +43,13 @@ This repository is the public extract for Unique Domains' .FAMILY one-word domai
 
 ### Files
 
-- `family.csv` — public CSV extract (1,000 rows)
-- `family.json` — public JSON extract (1,000 rows)
-- `DATA_DICTIONARY.md` — field definitions for the exported files
-- `METHODOLOGY.md` — scope, refresh policy, and caveats
-- `CHANGELOG.md` — latest snapshot metadata
-- `CITATION.cff` — machine-readable dataset citation metadata
-- `LICENSE` — terms for the public extract
+- `family.csv`, public CSV extract (1,000 rows)
+- `family.json`, public JSON extract (1,000 rows)
+- `DATA_DICTIONARY.md`, field definitions for the exported files
+- `METHODOLOGY.md`, scope, refresh policy, and caveats
+- `CHANGELOG.md`, latest snapshot metadata
+- `CITATION.cff`, machine-readable dataset citation metadata
+- `LICENSE`, terms for the public extract
 
 ## 🧭 Quick start
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain              | status    | ask_price | renewal_price | attractiveness | demand | length | registrar |
-| ------------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------- |
-| server.family       | available | $9.99     | —             | 64             | 45     | 6      | name.com  |
-| insight.family      | premium   | $75       | —             | 76             | 69     | 8      | name.com  |
-| letsgo.family       | available | $9.99     | —             | 57             | 31     | 7      | name.com  |
-| donuts.family       | premium   | $250      | —             | 54             | 62     | 6      | name.com  |
-| popup.family        | available | $9.99     | —             | 84             | 28     | 6      | name.com  |
-| travelers.family    | premium   | $118.80   | $118.80       | 58             | 61     | 9      | namesilo  |
-| has.family          | available | $9.99     | —             | 60             | 26     | 3      | name.com  |
-| events.family       | premium   | $250      | —             | 68             | 37     | 6      | name.com  |
-| inhouse.family      | available | $9.99     | —             | 70             | 24     | 8      | name.com  |
-| maps.family         | premium   | $250      | —             | 56             | 31     | 4      | name.com  |
-| boats.family        | available | $9.99     | —             | 52             | 24     | 5      | name.com  |
-| solutions.family    | premium   | $75       | —             | 56             | 31     | 9      | name.com  |
-| deeplearning.family | available | $9.99     | —             | 74             | 23     | 13     | name.com  |
-| videos.family       | premium   | $1,250    | —             | 52             | 30     | 6      | name.com  |
-| stadia.family       | available | $9.99     | —             | 66             | 22     | 6      | name.com  |
-| quotes.family       | premium   | $75       | —             | 58             | 29     | 6      | name.com  |
-| herbs.family        | available | $9.99     | —             | 62             | 22     | 5      | name.com  |
-| photos.family       | premium   | $1,250    | —             | 54             | 28     | 6      | name.com  |
-| makeit.family       | available | $9.99     | —             | 82             | 21     | 7      | name.com  |
-| inspiration.family  | premium   | $75       | —             | 88             | 27     | 11     | name.com  |
+| domain        | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                                 |
+| ------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------------------------------------------------- |
+| bid.family    | available | $9.99     | —             | high           | low    | 3      | name.com                                                  |
+| cool.family   | resell    | —         | —             | high           | low    | 4      | Dynadot Inc                                               |
+| aaa.family    | premium   | $128.70   | $128.70       | high           | medium | 3      | namecheap                                                 |
+| con.family    | available | $9.99     | —             | high           | low    | 3      | name.com                                                  |
+| cute.family   | resell    | —         | —             | high           | low    | 4      | NameCheap, Inc.                                           |
+| act.family    | premium   | $500      | —             | high           | low    | 3      | name.com                                                  |
+| did.family    | available | $9.99     | —             | high           | low    | 3      | name.com                                                  |
+| pray.family   | resell    | —         | —             | medium         | low    | 4      | Global Domains International, Inc. DBA DomainCostClub.com |
+| are.family    | premium   | $118.80   | $118.80       | high           | low    | 3      | namesilo                                                  |
+| far.family    | available | $9.99     | —             | high           | low    | 3      | name.com                                                  |
+| lucky.family  | resell    | —         | —             | high           | medium | 5      | Sav.com, LLC                                              |
+| ask.family    | premium   | $242      | $242          | high           | medium | 3      | namesilo                                                  |
+| few.family    | available | $9.99     | —             | high           | low    | 3      | name.com                                                  |
+| energy.family | resell    | —         | —             | high           | medium | 6      | Squarespace Domains II LLC                                |
+| dot.family    | premium   | $3,125    | —             | high           | medium | 3      | name.com                                                  |
+| hic.family    | available | $9.99     | —             | high           | low    | 3      | name.com                                                  |
+| him.family    | premium   | $500      | —             | high           | low    | 3      | name.com                                                  |
+| jot.family    | available | $9.99     | —             | high           | low    | 3      | name.com                                                  |
+| lot.family    | premium   | $118.80   | $118.80       | medium         | low    | 3      | namesilo                                                  |
+| put.family    | available | $9.99     | —             | high           | low    | 3      | name.com                                                  |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -105,27 +105,27 @@ If this sample already feels useful, Unique Domains is where the exact search be
 
 ## 🧱 Field summary
 
-- `domain` — Fully qualified domain name.
-- `status` — Current acquisition state for the domain in the public extract.
-- `purchase_price` — Visible purchase price when available.
-- `renewal_price` — Visible renewal price when available.
-- `attractiveness` — Composite naming score used as a decision-support signal.
-- `demand` — Relative buyer-pressure score when available.
-- `length` — Character count without the TLD.
-- `registrar` — Registrar name when known.
-- `created_at` — Creation timestamp when known.
-- `expires_at` — Expiry timestamp when known.
+- `domain`, Fully qualified domain name.
+- `status`, Current acquisition state for the domain in the public extract.
+- `purchase_price`, Visible purchase price when available.
+- `renewal_price`, Visible renewal price when available.
+- `attractiveness`, Public composite naming band used as a decision-support signal.
+- `demand`, Public buyer-pressure band when available.
+- `length`, Character count without the TLD.
+- `registrar`, Registrar name when known.
+- `created_at`, Creation timestamp when known.
+- `expires_at`, Expiry timestamp when known.
 
 See [DATA_DICTIONARY.md](./DATA_DICTIONARY.md) for full definitions and types.
 
 ## ⚠️ Methodology and caveats
 
-This set is entirely focused on one-word .family domains. The words range from broad everyday terms like today.family and distance.family to more distinctive choices like sensory.family and camouflage.family. That makes the selection relevant for both buyers seeking a straightforward, memorable name and investors assessing how much meaning a single word carries inside a niche extension. When comparing these domains, start with word quality first: clarity, spelling ease, and whether the term feels naturally compatible with .family. Then check asking price against how widely usable the word is. In a specialized TLD, simple language and obvious relevance usually matter more than novelty alone.
+This selection includes 11,700 one-word .family domain names, ranging from short compound terms like coffeeberry.family and backyard.family to phrase-style names like getmarried.family. The median asking price sits near $72, keeping many of these domains accessible for personal projects, community sites, and family-focused brands. Names vary in length and tone, from playful options like JollyRoger.family to functional ones like primarycare.family, giving buyers a wide range of choices at different price points.
 
-- All results are one-word domains in the .family extension
-- Median ask across this set is 53.66
-- Broad terms tend to be easier to evaluate and remember
-- Check whether the word fits .family in a natural, credible way
+- 11,700 one-word .family domain names in this selection
+- Median asking price near $72 across the set
+- Names range from short compounds to full phrases
+- Spans personal, community, and family-focused themes
 
 See [METHODOLOGY.md](./METHODOLOGY.md) for the full methodology reference.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .FAMILY One-Word Domains*. Version 2026-05-27. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .FAMILY One-Word Domains*. Version 2026-07-07. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
