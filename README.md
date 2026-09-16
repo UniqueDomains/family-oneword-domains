@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .family one-word domains fr
 
 **Public extract:** 1,000 rows · **Live catalog:** 23,440 domains · **Median ask:** $48.10 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-09-15
+**Last updated:** 2026-09-16
 **Canonical page:** `https://unique.domains/domains/tld/family`
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain        | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                                 |
-| ------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------------------------------------------------- |
-| bid.family    | available | $9.99     | —             | high           | low    | 3      | name.com                                                  |
-| cool.family   | resell    | —         | —             | high           | low    | 4      | Dynadot Inc                                               |
-| aaa.family    | premium   | $128.70   | $128.70       | high           | medium | 3      | namecheap                                                 |
-| con.family    | available | $9.99     | —             | high           | low    | 3      | name.com                                                  |
-| cute.family   | resell    | —         | —             | high           | low    | 4      | NameCheap, Inc.                                           |
-| act.family    | premium   | $500      | —             | high           | low    | 3      | name.com                                                  |
-| did.family    | available | $9.99     | —             | high           | low    | 3      | name.com                                                  |
-| pray.family   | resell    | —         | —             | medium         | low    | 4      | Global Domains International, Inc. DBA DomainCostClub.com |
-| are.family    | premium   | $118.80   | $118.80       | high           | low    | 3      | namesilo                                                  |
-| far.family    | available | $9.99     | —             | high           | low    | 3      | name.com                                                  |
-| lucky.family  | resell    | —         | —             | high           | medium | 5      | Sav.com, LLC                                              |
-| ask.family    | premium   | $242      | $242          | high           | medium | 3      | namesilo                                                  |
-| few.family    | available | $9.99     | —             | high           | low    | 3      | name.com                                                  |
-| energy.family | resell    | —         | —             | medium         | medium | 6      | Squarespace Domains II LLC                                |
-| dot.family    | premium   | $3,250    | $3,250        | medium         | medium | 3      | namecheap                                                 |
-| hic.family    | available | $9.99     | —             | high           | low    | 3      | name.com                                                  |
-| him.family    | premium   | $500      | —             | high           | low    | 3      | name.com                                                  |
-| jot.family    | available | $9.99     | —             | high           | low    | 3      | name.com                                                  |
-| lot.family    | premium   | $118.80   | $118.80       | medium         | low    | 3      | namesilo                                                  |
-| put.family    | available | $9.99     | —             | high           | low    | 3      | name.com                                                  |
+| domain           | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                                 |
+| ---------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------------------------------------------------- |
+| something.family | available | $9.99     | —             | high           | low    | 9      | name.com                                                  |
+| bid.family       | available | $9.99     | —             | high           | low    | 3      | name.com                                                  |
+| cool.family      | resell    | —         | —             | high           | low    | 4      | Dynadot Inc                                               |
+| aaa.family       | premium   | $128.70   | $128.70       | high           | medium | 3      | namecheap                                                 |
+| con.family       | available | $9.99     | —             | high           | low    | 3      | name.com                                                  |
+| cute.family      | resell    | —         | —             | high           | low    | 4      | NameCheap, Inc.                                           |
+| act.family       | premium   | $500      | —             | high           | low    | 3      | name.com                                                  |
+| did.family       | available | $9.99     | —             | high           | low    | 3      | name.com                                                  |
+| pray.family      | resell    | —         | —             | medium         | low    | 4      | Global Domains International, Inc. DBA DomainCostClub.com |
+| are.family       | premium   | $118.80   | $118.80       | high           | low    | 3      | namesilo                                                  |
+| far.family       | available | $9.99     | —             | high           | low    | 3      | name.com                                                  |
+| lucky.family     | resell    | —         | —             | high           | medium | 5      | Sav.com, LLC                                              |
+| ask.family       | premium   | $242      | $242          | high           | medium | 3      | namesilo                                                  |
+| few.family       | available | $9.99     | —             | high           | low    | 3      | name.com                                                  |
+| energy.family    | resell    | —         | —             | medium         | medium | 6      | Squarespace Domains II LLC                                |
+| dot.family       | premium   | $3,250    | $3,250        | medium         | medium | 3      | namecheap                                                 |
+| hic.family       | available | $9.99     | —             | high           | low    | 3      | name.com                                                  |
+| him.family       | premium   | $500      | —             | high           | low    | 3      | name.com                                                  |
+| jot.family       | available | $9.99     | —             | high           | low    | 3      | name.com                                                  |
+| lot.family       | premium   | $118.80   | $118.80       | medium         | low    | 3      | namesilo                                                  |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -115,6 +115,7 @@ If this sample already feels useful, Unique Domains is where the exact search be
 - `registrar`, Registrar name when known.
 - `created_at`, Creation timestamp when known.
 - `expires_at`, Expiry timestamp when known.
+- `status_verified_at`, When status was last established against the registry. Null means never checked.
 
 See [DATA_DICTIONARY.md](./DATA_DICTIONARY.md) for full definitions and types.
 
@@ -132,6 +133,7 @@ See [METHODOLOGY.md](./METHODOLOGY.md) for the full methodology reference.
 ## 🔄 Update policy
 
 - This repository is refreshed regularly from the same export pipeline used for public dataset repos.
+- The snapshot date above is when this file was written, not when each row was checked. Read `status_verified_at` for that: a name whose status was last established months ago is exported with its real date rather than the snapshot's.
 - The README count targets the live catalog count from the public landing response when available.
 - The CSV and JSON files contain the public extract only and may not match the full live catalog size.
 - Stable historical references should be published via GitHub Releases outside this repository snapshot.
@@ -142,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .FAMILY One-Word Domains*. Version 2026-09-15. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .FAMILY One-Word Domains*. Version 2026-09-16. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
