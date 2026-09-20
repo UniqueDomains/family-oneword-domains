@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .family one-word domains fr
 
 **Public extract:** 1,000 rows · **Live catalog:** 26,006 domains · **Median ask:** $49.11 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-09-18
+**Last updated:** 2026-09-20
 **Canonical page:** `https://unique.domains/domains/tld/family`
 **Best for:** founders, investors, studios
 
@@ -78,7 +78,7 @@ print(df.head())
 | ask.family    | premium   | $242      | $242          | high           | medium | 3      | namesilo                                                  |
 | few.family    | available | $9.99     | —             | high           | low    | 3      | name.com                                                  |
 | energy.family | resell    | —         | —             | medium         | medium | 6      | Squarespace Domains II LLC                                |
-| dot.family    | premium   | $3,250    | $3,250        | medium         | medium | 3      | namecheap                                                 |
+| dot.family    | premium   | $3,450    | $3,450        | medium         | low    | 3      | namesilo                                                  |
 | hic.family    | available | $9.99     | —             | high           | low    | 3      | name.com                                                  |
 | him.family    | premium   | $500      | —             | high           | low    | 3      | name.com                                                  |
 | jot.family    | available | $9.99     | —             | high           | low    | 3      | name.com                                                  |
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .FAMILY One-Word Domains*. Version 2026-09-18. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .FAMILY One-Word Domains*. Version 2026-09-20. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 

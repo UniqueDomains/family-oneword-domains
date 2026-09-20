@@ -13,7 +13,7 @@ b14ed489-a9f1-4a02-bc44-10fbedbbb021,comeby.family,available,9.99,,high,low,7,na
 031ada54-2968-4ddf-92d1-7919730dac1f,apposable.family,available,9.99,50.99,low,low,9,name.com,,,06/08/2026 07:48
 32453f72-8e93-4a93-ae29-3a5d8b04ccaa,elaborated.family,available,9.99,50.99,medium,low,10,name.com,,,
 817bd6d4-af30-47a2-aba2-1cae30ca3685,goodday.family,available,9.99,,high,low,8,name.com,,,
-2ee6baa1-6367-4f7d-8b83-4c6772251b4e,FannyAdams.family,available,9.99,,medium,low,11,name.com,,,
+2ee6baa1-6367-4f7d-8b83-4c6772251b4e,fannyadams.family,available,9.99,,medium,low,11,name.com,,,
 92178e59-c3ed-4b28-a73e-55190b07f31c,include.family,available,9.99,,high,low,7,name.com,,,
 2c965e5f-57c0-4e0f-bf55-9ffe9dde53d1,aramean.family,available,9.99,50.99,low,low,7,name.com,,,06/08/2026 12:02
 e32ebab3-dd9c-4511-8d08-f7ccd38b3711,global.family,premium,500,,high,medium,6,name.com,,,
@@ -25,7 +25,7 @@ d88e578d-1261-4fcb-b877-5f5c1fcac247,impulse.family,available,9.99,,high,low,7,n
 fd443b82-9242-4835-9e81-d8974ff701e3,distribute.family,available,9.99,,medium,low,10,name.com,,,
 2d1dede8-0091-4f36-b7c0-37de2a782550,humanlike.family,available,9.99,50.99,low,low,9,name.com,,,
 da32ce91-8eca-4669-bbff-01bd21e2b08a,modem.family,available,9.99,,high,low,5,name.com,,,
-f4000bc8-c824-4ab7-9c68-c4f89df21455,forest.family,premium,242,242,medium,low,6,namesilo,,,13/09/2026 19:49
+f4000bc8-c824-4ab7-9c68-c4f89df21455,forest.family,premium,242,242,low,low,6,namesilo,,,19/09/2026 06:42
 8cafb3f8-1e39-4a8f-ae08-0204a5850243,peaking.family,available,9.99,,high,low,7,name.com,,,
 d787959a-3c46-4b85-87b5-34ea6108fb46,licenced.family,available,9.99,50.99,medium,low,8,name.com,,,
 42c45cd4-20d9-47d2-9e19-edf0d4ea7fc3,rubbishbin.family,available,9.99,,medium,low,11,name.com,,,
@@ -134,12 +134,12 @@ bfbb868e-09de-4d06-9155-fbdb093ab8fa,infuriated.family,available,9.99,50.99,low,
 ec6aab57-b03d-46e6-a20b-ffbcf712eaf1,asymptotic.family,available,9.99,50.99,low,low,10,name.com,,,07/08/2026 10:30
 75e2ccc8-4cb6-472f-94b5-45ac429c14b9,alkaliser.family,available,9.99,50.99,low,low,9,name.com,,,
 22bdddf6-c350-4489-a723-f297c199f5ed,coldrubber.family,available,9.99,,medium,low,11,name.com,,,
-d265e314-b02e-44c1-a590-d34a2c367388,SouthKorea.family,premium,1107,1107,low,low,11,namesilo,,,
+d265e314-b02e-44c1-a590-d34a2c367388,southkorea.family,premium,1107,1107,low,low,11,namesilo,,,
 a5cfb22e-8096-4cea-8e76-e82c1412abdb,lyric.family,available,9.99,,medium,low,5,name.com,,,
 31083587-a19c-489e-a61b-d5e6d5da8102,visited.family,available,9.99,,high,low,7,name.com,,,
 7b274982-ef9b-4240-a069-0707f35d4ccd,effective.family,available,9.99,50.99,high,low,9,name.com,,,
 b5d1bf3a-0261-4b88-9fd7-53cf53ed9284,neveragain.family,available,9.99,,low,low,11,name.com,,,
-a3e0e376-a99d-4e7b-95d9-caff6123640a,RGB.family,available,9.99,,medium,low,3,name.com,,,
+a3e0e376-a99d-4e7b-95d9-caff6123640a,rgb.family,available,9.99,,medium,low,3,name.com,,,
 434f81bd-0222-47ce-a215-4791e57b6eb4,arthistory.family,premium,118.8,118.8,high,low,11,namesilo,,,
 4a6291ab-3d78-4896-baa6-984992033029,wishful.family,available,9.99,50.99,low,low,7,name.com,,,07/08/2026 05:07
 5ea924f1-9a61-4388-ae78-03f3c5ab9d5b,patriotism.family,available,9.99,,high,low,10,name.com,,,
@@ -185,16 +185,16 @@ a86325a2-e625-46d9-b9ee-49895cc8da02,arguable.family,available,9.99,50.99,low,lo
 98de368c-510a-44e2-a267-fcb0888355ea,compactcamera.family,available,9.99,,high,low,14,name.com,,,
 74615e2b-3d48-4a25-aaeb-7d6b5f366c48,televisionprogram.family,available,9.99,,high,low,18,name.com,,,
 b576c23a-c98f-4ac3-8589-83538870c01a,useless.family,available,9.99,,medium,low,7,name.com,,,
-872db062-2369-40c2-bc5e-84905f5fa835,NewGuinea.family,premium,500,,low,low,10,name.com,,,
+872db062-2369-40c2-bc5e-84905f5fa835,newguinea.family,premium,500,,low,low,10,name.com,,,
 2a59de3a-a581-449e-8260-7937392498ae,qualification.family,available,9.99,,medium,low,13,name.com,,,
 c00a45aa-c04f-446c-9a6a-90b84c0e4216,backstair.family,available,9.99,50.99,low,low,9,name.com,,,08/08/2026 06:21
 c2c03908-de73-49ea-8260-55f1e60698cd,blow.family,available,9.99,,medium,low,4,name.com,,,
-d187e92a-3e44-4781-a6c9-4d3b71803b4b,cinema.family,premium,242,242,medium,low,6,namesilo,,,15/09/2026 01:03
+d187e92a-3e44-4781-a6c9-4d3b71803b4b,cinema.family,premium,242,242,medium,low,6,namesilo,,,19/09/2026 09:58
 9df721e4-adbc-46d4-8721-fb8f392b9ad8,dreamup.family,available,9.99,,high,low,8,name.com,,,
 f80e7d49-cdfa-42ae-b8b7-370043cbbab0,acceptable.family,available,9.99,50.99,high,low,10,name.com,,,
 8e184be3-f6f2-4bb2-920e-84b26fa4cbff,vexation.family,available,9.99,50.99,low,low,8,name.com,,,
 4fd8d738-f93b-44b3-b170-1636f8b0df4b,annalistic.family,available,9.99,50.99,low,low,10,name.com,,,
-143db812-2acd-4cc1-9548-8699838dd1dd,Sony.family,available,,,high,low,4,,,,
+143db812-2acd-4cc1-9548-8699838dd1dd,sony.family,available,,,high,low,4,,,,
 bf9fe07d-40c3-4e9f-ad35-4ae7718c7394,attended.family,available,9.99,,medium,low,8,name.com,,,
 1c0784aa-35ef-43c2-94a7-6e5cb8eb3085,hardworking.family,available,9.99,,high,low,11,name.com,,,
 e8d62eb7-1d07-4939-b5df-07382e6312da,guts.family,available,9.99,,high,low,4,name.com,,,
@@ -212,7 +212,7 @@ b4b58db7-927f-4f79-bfef-07d2de17d997,refundable.family,premium,71.4,71.4,high,lo
 762af5f9-6933-403e-9593-08bb762aff2d,trauma.family,available,9.99,,medium,low,6,name.com,,,
 d0833636-5e5f-493b-a876-46d17955fc45,awfully.family,available,9.99,,medium,low,7,name.com,,,
 9b5aa7ca-a5b8-4902-a406-56ef87c53a67,anniversary.family,premium,118.8,118.8,high,low,11,namesilo,,,
-4bb10b61-ac35-4066-9148-27b60afa59d2,ROTFL.family,available,9.99,,low,low,5,name.com,,,
+4bb10b61-ac35-4066-9148-27b60afa59d2,rotfl.family,available,9.99,,low,low,5,name.com,,,
 7a4843b7-3a12-4188-ad4e-9c31962bd1b6,rightatrium.family,available,9.99,,low,low,12,name.com,,,
 8e464469-319a-41cb-ac39-e6881d382838,mostly.family,available,9.99,,medium,low,6,name.com,,,
 596f634a-8f14-4401-a712-593dcf42db53,alveolar.family,available,9.99,50.99,high,low,8,name.com,,,
@@ -225,7 +225,7 @@ cf0a6472-6cd8-4bab-9a13-da2fdd5204ef,terminating.family,available,39.99,39.99,lo
 258eaacc-449c-4e57-8277-b0d0a3bd865c,algophobic.family,available,9.99,50.99,low,low,10,name.com,,,
 f2854dc9-e96f-445d-b031-e473fa9c213d,asyoulike.family,available,9.99,,high,low,11,name.com,,,
 c50d1f5a-90a7-4290-a79f-88e258cdc633,sixtyone.family,available,9.99,50.99,low,low,9,name.com,,,
-bafea0a9-3425-4f60-a4cb-ce355ab6bc7d,Ilikethat.family,available,9.99,,medium,low,11,name.com,,,
+bafea0a9-3425-4f60-a4cb-ce355ab6bc7d,ilikethat.family,available,9.99,,medium,low,11,name.com,,,
 cb57ae6d-6fcb-4002-844f-12f84b322854,infact.family,available,9.99,,high,low,7,name.com,,,
 ce4f57e8-4ce5-471f-84f5-bc6a4d43bf68,available.family,premium,71.4,71.4,high,low,9,namesilo,,,
 1fe5859b-df58-4101-b596-742e62780230,seedy.family,available,9.99,50.99,low,low,5,name.com,,,
@@ -253,7 +253,7 @@ deeb9417-c29c-48f1-8a7b-9405b7c87550,arctic.family,premium,118.8,118.8,low,low,6
 115b098e-94c3-4aa1-ab5b-768b80f35d76,arbitral.family,available,9.99,50.99,low,low,8,name.com,,,06/08/2026 12:48
 9c86417f-c421-4577-a2ef-594799ccf706,fortified.family,available,9.99,50.99,low,low,9,name.com,,,09/08/2026 00:17
 e80f113d-ad45-4c31-8d77-7a4667a90ef1,majority.family,available,9.99,,high,low,8,name.com,,,
-81ce967b-0d1e-424c-b884-8782e6ecac3b,DakotaCity.family,available,9.99,,medium,low,11,name.com,,,
+81ce967b-0d1e-424c-b884-8782e6ecac3b,dakotacity.family,available,9.99,,medium,low,11,name.com,,,
 fe4a92de-5b3a-4c72-9d3b-7db8d51eb0fe,lot.family,premium,118.8,118.8,medium,low,3,namesilo,,,
 18ba740c-4cc5-4f9f-b7c5-7d97c5fb0fa9,roomandboard.family,available,9.99,,medium,low,14,name.com,,,
 c74cc6a4-b57d-48ee-b710-4ed92354530a,andfinally.family,available,9.99,,medium,low,11,name.com,,,
@@ -261,7 +261,7 @@ c74cc6a4-b57d-48ee-b710-4ed92354530a,andfinally.family,available,9.99,,medium,lo
 8dc0f581-f7a9-41d6-80c2-0b429f69c437,anosmic.family,available,9.99,50.99,low,low,7,name.com,,,
 5ccfaff5-ca38-498a-8cbf-35fe1510007e,generalpublic.family,available,9.99,,high,low,14,name.com,,,
 8bc5d27e-7b13-4230-8085-2724d27daf86,bond.family,premium,1107,1107,high,low,4,namesilo,,,
-a8aff77e-245c-4922-81e3-82598b47ae01,Eddie.family,available,9.99,,high,low,5,name.com,,,
+a8aff77e-245c-4922-81e3-82598b47ae01,eddie.family,available,9.99,,high,low,5,name.com,,,
 2093d995-00a8-4fe9-bf5f-144a22c0710a,hole.family,available,9.99,,medium,low,4,name.com,,,
 df2944ac-18df-43c7-a1e8-fd6ec87beac4,comp.family,available,9.99,50.99,medium,low,4,name.com,,,
 b1b02609-519b-4c7f-b141-9b2485a03a97,substitute.family,available,9.99,50.99,high,low,10,name.com,,,
@@ -273,7 +273,7 @@ a5e0aa93-f463-4572-854a-45e7856da8d5,facebook.family,available,,,high,medium,8,,
 c575643f-b7af-43fd-8df3-4058475ef725,default.family,available,9.99,,high,low,7,name.com,,,
 806790c7-db03-4bb9-850a-e67af1777142,leash.family,available,9.99,50.99,low,low,5,name.com,,,
 8f1d3f9f-2926-4b16-8b44-3bdcebe862b7,toothpowder.family,available,9.99,,low,low,12,name.com,,,
-b5b55aca-9786-4e62-b7a8-94069eb894eb,Greekalphabet.family,available,9.99,,medium,low,14,name.com,,,
+b5b55aca-9786-4e62-b7a8-94069eb894eb,greekalphabet.family,available,9.99,,medium,low,14,name.com,,,
 f1c3a3bf-770c-452e-a879-b759a5cba350,righteous.family,available,,,high,low,9,,,,
 8605a2f9-6267-4728-984e-f4da5f9554ef,songlike.family,available,9.99,50.99,low,low,8,name.com,,,06/08/2026 19:24
 6696c24d-30ab-4501-89d5-22b9d0f78262,giraffe.family,premium,71.4,71.4,high,low,7,namesilo,,,
@@ -293,7 +293,7 @@ ec1b92bc-5c19-4389-9f93-ea3a9dad8d32,accusive.family,available,9.99,50.99,low,lo
 55306f40-f2b9-416d-af3a-0e2b89d3d792,lxxxiv.family,available,9.99,50.99,low,low,6,name.com,,,
 dde54556-0568-440d-b61b-5ca4ebfb5ec4,strain.family,available,9.99,,medium,low,6,name.com,,,
 c3d4af39-9a76-4fdc-b826-53a0c63c032d,xxi.family,available,9.99,50.99,medium,low,3,name.com,,,
-d7b3df42-fbcb-41c0-b701-1ca31b544cf3,Atacama.family,available,9.99,,medium,low,7,name.com,,,
+d7b3df42-fbcb-41c0-b701-1ca31b544cf3,atacama.family,available,9.99,,medium,low,7,name.com,,,
 fffb91c0-2de1-4037-8254-3ac433064506,purchaseorder.family,available,9.99,,high,low,14,name.com,,,
 79d29bba-7d7a-4415-9ce3-c5e4ed164a6d,eating.family,premium,71.4,71.4,medium,low,6,namesilo,,,08/09/2026 13:35
 5537b393-6e67-4a99-8cc8-5753c25ccd4e,assoonas.family,available,9.99,,medium,low,10,name.com,,,
@@ -311,8 +311,8 @@ b4765fbb-43e0-4337-a35c-208d89b9d7a0,jetfuel.family,available,9.99,,high,low,8,n
 c058d0f1-2b89-45b5-9d2a-ef7b1ccb5d09,federal.family,premium,242,242,high,low,7,namesilo,,,
 98c32e0b-3b87-4b84-89b9-4dbff1cd3293,scientificname.family,available,9.99,,medium,low,15,name.com,,,
 47c3facf-f495-439b-9cfa-6b12e0df2248,intheflesh.family,available,9.99,,high,low,12,name.com,,,
-2f9514b3-c9d7-4fb3-9d84-8e4455c0fa6d,think.family,premium,242,242,medium,medium,5,namesilo,,,15/09/2026 03:47
-9c24edd0-3452-43d9-b77a-5362b12b73e9,Godonlyknows.family,available,9.99,,medium,low,14,name.com,,,
+2f9514b3-c9d7-4fb3-9d84-8e4455c0fa6d,think.family,premium,242,242,medium,low,5,namesilo,,,19/09/2026 06:38
+9c24edd0-3452-43d9-b77a-5362b12b73e9,godonlyknows.family,available,9.99,,medium,low,14,name.com,,,
 929f9dd1-479d-46eb-a626-42f0c6696c4c,principles.family,available,9.99,,low,low,10,name.com,,,
 e4569052-20f7-4734-8a59-50e1fb297b14,inthehopethat.family,available,9.99,,medium,low,16,name.com,,,
 8ceb3126-c7f6-401d-b8ce-5c6be5038297,clinically.family,available,9.99,,medium,low,10,name.com,,,
@@ -358,7 +358,7 @@ a5237cc9-41f6-43cd-a6d3-10bf6c8355a8,she.family,premium,500,,high,low,3,name.com
 561ca12f-0322-47cb-bab3-bad26646cc1c,argentine.family,available,,,high,low,9,,,,
 dc35f630-efa0-4f2f-80c2-6c1ac8f6669d,useup.family,available,9.99,,low,low,6,name.com,,,
 eaf569f1-2a05-4a3f-bcb5-1c786830b20c,mere.family,available,9.99,,medium,low,4,name.com,,,
-e1f0d3bb-40eb-4923-9901-36329c40e250,Germanchamomile.family,available,9.99,,high,low,16,name.com,,,
+e1f0d3bb-40eb-4923-9901-36329c40e250,germanchamomile.family,available,9.99,,high,low,16,name.com,,,
 19881382-7b45-4530-b1ff-b7a996262ca4,screening.family,available,9.99,,high,low,9,name.com,,,
 6a7cc551-5888-45d3-9298-924108149edf,publication.family,available,9.99,,medium,low,11,name.com,,,
 f62d5c98-16b2-45f5-be9f-900a7cc08109,bavarian.family,available,9.99,50.99,low,low,8,name.com,,,09/08/2026 02:00
@@ -388,7 +388,7 @@ d3162643-7f38-4768-9b7b-69e43be9699d,score.family,available,,,high,low,5,,,,
 84812493-8c3c-4519-a371-9637e1ba817a,drown.family,available,9.99,,medium,low,5,name.com,,,
 d1577374-bcdc-4946-b1f1-b863ae7893e5,neighbour.family,premium,71.4,71.4,high,low,9,namesilo,,,
 38d96382-090b-4359-a9ad-d35ac1bb6ff9,moderator.family,available,9.99,,high,low,9,name.com,,,
-cf7665d7-dc47-4bc3-8c0b-562c0b171fca,veggie.family,premium,78,78,medium,low,6,namecheap,,,13/09/2026 19:20
+cf7665d7-dc47-4bc3-8c0b-562c0b171fca,veggie.family,premium,71.4,71.4,medium,low,6,namesilo,,,19/09/2026 06:34
 47d0d33e-c4db-4af2-a5a0-8a1131ba5ac4,showoff.family,available,9.99,,medium,low,8,name.com,,,
 4369f2ef-cf6b-44c3-b4bd-4cb2b7bc1825,setose.family,available,9.99,50.99,low,low,6,name.com,,,08/08/2026 17:39
 085ed405-5f93-4be7-bb32-9a5a65f9acb7,cute.family,resell,,,high,low,4,"NameCheap, Inc.",08/01/2022 13:50,08/01/2027 13:50,
@@ -398,15 +398,15 @@ c221c539-e1c6-4d2f-8125-8afa54173c20,perforation.family,available,9.99,,low,low,
 53b6e6ca-3010-4f2b-ab38-5e7387642183,goforthegold.family,available,9.99,,high,low,15,name.com,,,
 2ce0ee78-ecb2-47c1-acb5-7c9bbc076993,put.family,available,9.99,,high,low,3,name.com,,,
 c3d23fe7-526b-4ec9-a1c5-d87acab38c0d,noticeable.family,available,9.99,50.99,medium,low,10,name.com,,,
-6d3087d0-6e3f-4594-be53-18313baa955c,arts.family,premium,1107,1107,medium,low,4,namesilo,,,15/09/2026 05:49
+6d3087d0-6e3f-4594-be53-18313baa955c,arts.family,premium,1300,1300,medium,low,4,namecheap,,,19/09/2026 04:18
 f527c709-5eee-4539-b4dc-fc35b413b839,monthly.family,available,9.99,,high,low,7,name.com,,,
 871d4fea-41e4-49e0-8420-6c93f279f39f,formless.family,available,9.99,50.99,low,low,8,name.com,,,
 29f7c702-1332-45a5-88df-4542f6083e61,prohibited.family,available,9.99,50.99,low,low,10,name.com,,,08/08/2026 13:48
 b402a3be-b05f-4aaf-92c6-669ccb67f114,septet.family,available,9.99,50.99,low,low,6,name.com,,,
 c0598efc-604f-4e1e-880f-2a608f5dc621,fortysix.family,available,9.99,50.99,low,low,9,name.com,,,
-8ba17372-7f53-452b-aac1-eb0e66402599,Englishmedium.family,available,9.99,,medium,low,14,name.com,,,
+8ba17372-7f53-452b-aac1-eb0e66402599,englishmedium.family,available,9.99,,medium,low,14,name.com,,,
 4657af15-e68a-4f74-b391-a874b1c1a4f4,youngboy.family,available,9.99,,high,low,9,name.com,,,
-64985fce-87ef-4e1a-98f9-e751e8bb30a3,sent.family,available,39.99,39.99,medium,low,4,namesilo,,,13/09/2026 03:19
+64985fce-87ef-4e1a-98f9-e751e8bb30a3,sent.family,available,39.99,39.99,low,low,4,namesilo,,,19/09/2026 16:10
 8c43eb55-d8e9-4882-8b47-b710eaa98ccd,shiftabout.family,available,9.99,,low,low,11,name.com,,,
 be2f6956-d880-4f67-a99f-50e3c7c5a562,term.family,available,9.99,,high,low,4,name.com,,,
 1376ed94-3840-4631-bad1-cdfdf74c3841,grandjury.family,available,9.99,,medium,low,10,name.com,,,
@@ -417,8 +417,8 @@ cf8a5a95-f7bb-4ab6-a403-669ea87614bf,autoerotic.family,available,9.99,50.99,low,
 26cccc37-1dac-444a-87a3-bab2dccf992e,lastminute.family,premium,71.4,71.4,medium,low,11,namesilo,,,
 6b123fec-d7ca-4f07-9baf-3e04379ffdae,asthedayislong.family,available,9.99,,medium,low,18,name.com,,,
 6a33ab82-f8b4-4744-8c2f-399e966bad88,worn.family,available,9.99,,medium,low,4,name.com,,,
-843ecef6-7a3d-4a36-92c1-894a178e3e2c,engineering.family,premium,118.8,118.8,medium,low,11,namesilo,,,08/09/2026 14:58
-75c7dd93-b8e9-46c0-bce0-a9005f249e42,buffet.family,premium,242,242,medium,low,6,namesilo,,,14/09/2026 03:26
+843ecef6-7a3d-4a36-92c1-894a178e3e2c,engineering.family,premium,118.8,118.8,medium,low,11,namesilo,,,19/09/2026 11:00
+75c7dd93-b8e9-46c0-bce0-a9005f249e42,buffet.family,premium,242,242,medium,low,6,namesilo,,,19/09/2026 17:05
 f1ba6ac6-8674-4cf0-8627-09263391532e,going.family,available,9.99,,high,low,5,name.com,,,
 4cc81d00-ad77-460d-919c-62ffdf12cbfb,asyndetic.family,available,9.99,50.99,low,low,9,name.com,,,07/08/2026 10:34
 e2796829-9986-4051-9264-05169fa6d076,meaningful.family,available,9.99,,high,low,10,name.com,,,
@@ -426,7 +426,7 @@ e2796829-9986-4051-9264-05169fa6d076,meaningful.family,available,9.99,,high,low,
 6d33f215-5e7a-45ff-9656-a10ab19209fa,attorneygeneral.family,available,9.99,,medium,low,16,name.com,,,
 6af41be5-7ba0-4d84-9bb2-4326638af971,childpornography.family,available,,,medium,low,17,,,,
 9ab5b17b-199e-4061-9979-aeff397d5487,front.family,available,9.99,,high,low,5,name.com,,,
-23f6a359-ba06-4605-803a-cee26436566d,Crayola.family,available,,,high,low,7,,,,
+23f6a359-ba06-4605-803a-cee26436566d,crayola.family,available,,,high,low,7,,,,
 7ad22c42-43c4-4bc8-9389-d5bdda2fbb59,bootleg.family,available,9.99,,high,low,7,name.com,,,
 27f1ac16-508f-46a6-936a-dd4f74957095,occur.family,available,9.99,,high,low,5,name.com,,,
 1780d0f7-2341-48bb-ba38-1d36ab1e492a,veal.family,available,9.99,,medium,low,4,name.com,,,
@@ -440,7 +440,7 @@ cd142628-6f71-4673-9e0b-0eef01c7bdea,worthwhile.family,available,9.99,,high,low,
 86b46ff6-4019-4066-bce0-7e56b3d4b130,pizzashop.family,available,9.99,,high,low,10,name.com,,,
 0e868579-c2b8-4314-8593-5e517db04cc6,recently.family,available,9.99,,medium,low,8,name.com,,,
 10b70abd-0928-4222-85df-b72d66b011e8,cool.family,resell,,,high,low,4,Dynadot Inc,03/02/2026 17:00,03/02/2027 17:00,
-1a34be26-75a3-48af-a161-890695c87f54,Westcott.family,available,9.99,,low,low,8,name.com,,,
+1a34be26-75a3-48af-a161-890695c87f54,westcott.family,available,9.99,,low,low,8,name.com,,,
 8e573297-e46e-4b20-ac6d-3def814d3f1a,abstruse.family,available,9.99,50.99,low,low,8,name.com,,,
 1b2051bb-e1cc-4f56-b643-0b2b88bd5741,justification.family,available,9.99,,medium,low,13,name.com,,,
 459c1fb7-4ddb-43fd-8bd9-f978a5d30817,vicious.family,available,9.99,50.99,low,low,7,name.com,,,08/08/2026 16:00
@@ -478,7 +478,7 @@ fd1eaa7c-fe7e-4318-b579-be4a8b4c5f44,vocal.family,available,9.99,,high,low,5,nam
 8dfe36cf-4df3-42d9-a5cb-7e7c1a415a49,moviefilm.family,available,9.99,,high,low,10,name.com,,,
 d4d79e49-c292-4414-a001-21dd749d34f3,warfare.family,available,9.99,,high,low,7,name.com,,,
 3f423092-f671-4cc7-a246-652f3cf0e849,standupto.family,available,9.99,,low,low,11,name.com,,,
-af691a65-3aef-421f-b7a2-d81fc7990cc7,attainable.family,available,39.99,39.99,medium,low,10,namesilo,,,15/09/2026 02:33
+af691a65-3aef-421f-b7a2-d81fc7990cc7,attainable.family,available,39.99,39.99,medium,low,10,namesilo,,,19/09/2026 04:15
 560b3a84-16aa-40da-af32-3372aa407e73,giveortake.family,available,9.99,,medium,low,12,name.com,,,
 1b51b0cb-fc13-41b3-9df1-45427a54a8fe,believe.family,premium,75,,high,low,7,name.com,,,
 d9ac6083-c949-4edc-9ca4-ce51691175f3,independent.family,available,9.99,,high,low,11,name.com,,,
@@ -515,13 +515,13 @@ ceee032b-b6cc-4061-b426-10d728771ff6,records.family,premium,1107,1107,low,low,7,
 f96986bd-991a-409e-99c2-07840ae1c98f,hairy.family,available,9.99,,medium,low,5,name.com,,,
 0bf796bc-c9f0-48ce-b789-cad2d1e23755,respond.family,available,9.99,,high,low,7,name.com,,,
 847612c4-48f1-4925-b56c-e53f30183e27,that.family,premium,242,242,high,low,4,namesilo,,,
-d0b56041-90f4-459f-a8bc-77435da314e7,physically.family,available,9.99,50.99,low,low,10,name.com,,,12/09/2026 03:48
+d0b56041-90f4-459f-a8bc-77435da314e7,physically.family,available,40.98,49.98,low,low,10,namecheap,,,19/09/2026 14:53
 cb5fb0da-6f5b-452d-8d01-5058471bded4,conductor.family,available,9.99,,high,low,9,name.com,,,
 c9809783-782f-442d-a77b-38aa56910849,merger.family,available,9.99,,high,low,6,name.com,,,
 e80147e3-3d55-41fb-a183-f4d232c640d2,augustan.family,available,9.99,50.99,low,low,8,name.com,,,07/08/2026 17:15
 41c48448-7a71-44e7-b276-e98ba8798bb6,xxxiii.family,available,9.99,50.99,low,low,6,name.com,,,
 f9368558-37e3-4055-9eb8-639c15e43562,released.family,available,9.99,,low,low,8,name.com,,,
-73d1f467-190b-4fc7-bac7-339233842cde,PubMed.family,available,9.99,,high,low,6,name.com,,,
+73d1f467-190b-4fc7-bac7-339233842cde,pubmed.family,available,9.99,,high,low,6,name.com,,,
 bccfd2f6-92dc-49ed-8ed5-089b56b4d988,watchover.family,available,9.99,,high,low,10,name.com,,,
 87c119f4-dc66-4fdb-85eb-128e8294ab0d,antic.family,available,9.99,50.99,low,low,5,name.com,,,
 edee1f51-12e5-4938-ba7e-a321699c8be0,income.family,premium,242,242,high,low,6,namesilo,,,
@@ -547,7 +547,7 @@ b37b6a27-2b40-461e-90f1-c4f4f7b9f610,justsaying.family,available,9.99,,medium,lo
 0dd2b2ec-2f0c-4f30-b903-f704953d5ad9,paperplate.family,available,9.99,,high,low,11,name.com,,,
 64be7979-b289-481a-8908-1c5450bfb9dd,practicing.family,available,9.99,,high,low,10,name.com,,,
 a93dfb71-011c-48e2-a070-863fa9a5a3d3,maudlin.family,available,9.99,50.99,low,low,7,name.com,,,09/08/2026 00:42
-a7ad3654-290d-4bf7-adac-ea75c169a845,schoolbook.family,available,40.98,49.98,low,low,11,namecheap,,,14/09/2026 19:18
+a7ad3654-290d-4bf7-adac-ea75c169a845,schoolbook.family,available,39.99,39.99,low,low,11,namesilo,,,19/09/2026 07:03
 ddb266f1-97a1-4daa-aa00-ee1dbbc21b72,waterless.family,available,9.99,50.99,low,low,9,name.com,,,06/08/2026 19:03
 40190505-3bf6-4e56-8d6a-300e6e86b2b0,noreally.family,available,9.99,,high,low,9,name.com,,,
 876b0fc1-5c05-42e4-a061-a26782f9bb4e,asyet.family,available,39.99,39.99,low,low,6,namesilo,,,13/09/2026 21:52
@@ -563,7 +563,7 @@ b3874758-d5a3-4eba-8468-79535e4f7122,athenian.family,available,9.99,50.99,low,lo
 ae96f7a4-07b1-4362-988b-0b636a1f6fbd,alot.family,available,9.99,,high,low,5,name.com,,,
 be5d14ca-6a5a-4ad0-a688-d3527aa00ee4,biggovernment.family,available,9.99,,medium,low,14,name.com,,,
 ef2dbb34-5b04-4884-9b31-c8a93bc16803,condensedmilk.family,available,9.99,,high,low,14,name.com,,,
-8d1c533c-182a-43ee-a506-461adb83329b,Liam.family,premium,71.4,71.4,high,low,4,namesilo,,,
+8d1c533c-182a-43ee-a506-461adb83329b,liam.family,premium,71.4,71.4,high,low,4,namesilo,,,
 81e23931-345f-4695-a7ee-cae65e11cf5e,camper.family,available,,,medium,low,6,,,,
 1c99c1b3-6f43-455f-b7b7-127d85098c1f,acidulous.family,available,9.99,50.99,low,low,9,name.com,,,
 c2d94bba-e680-4b0d-9870-9c9d5682d93a,getat.family,available,9.99,,high,low,6,name.com,,,
@@ -572,7 +572,7 @@ a998462c-642a-4314-9fe5-b96db8acb8f1,wannabe.family,available,9.99,50.99,low,low
 1f0ab972-9fe3-4a04-9a92-cc7f3bbd2b73,exercising.family,available,9.99,,high,low,10,name.com,,,
 126e2cd2-ae3c-4f6a-9457-30efc232fb39,far.family,available,9.99,,high,low,3,name.com,,,
 a6206538-9d32-4e37-a3fa-3eab3d46c0e8,coverart.family,available,9.99,,high,low,9,name.com,,,
-08d79a0f-422d-45ef-8185-24528df8c082,Ijustworkhere.family,available,9.99,,medium,low,16,name.com,,,
+08d79a0f-422d-45ef-8185-24528df8c082,ijustworkhere.family,available,9.99,,medium,low,16,name.com,,,
 c0b53c7a-f81d-4ce6-b230-859455894850,justkidding.family,available,9.99,,high,low,12,name.com,,,
 9eec32a8-432f-420a-850f-fc0275a3313b,once.family,available,9.99,,high,low,4,name.com,,,
 da6874a2-e552-4110-8fb3-e0c28adc12ab,fail.family,available,9.99,,medium,low,4,name.com,,,
@@ -590,7 +590,7 @@ e4c1f9ef-8d87-4d00-8beb-9ef0fd6ebdb6,nowwhat.family,available,9.99,,low,low,8,na
 a651d454-3032-4084-bf39-37fb345436ed,alate.family,available,9.99,50.99,low,low,5,name.com,,,
 e653052c-397c-4e7a-b830-dd8425cbf409,orangejuice.family,available,9.99,,medium,low,12,name.com,,,
 891dcfa9-5faf-443a-990a-4cf18b041006,agrestic.family,available,9.99,50.99,low,low,8,name.com,,,
-856b2c10-89fc-4a95-b7a0-6e074f48f1c0,school.family,premium,500,,high,low,6,name.com,,,
+856b2c10-89fc-4a95-b7a0-6e074f48f1c0,school.family,premium,512,512,medium,low,6,namesilo,,,20/09/2026 03:02
 d8e16650-c36d-48a5-82ba-1c0024074b48,baffled.family,available,9.99,50.99,low,low,7,name.com,,,07/08/2026 11:36
 22b12c5e-eec2-44f6-bca5-2d75ccc859da,drawing.family,premium,128.7,128.7,high,low,7,namecheap,,,
 ddf7e0c5-5960-4fbc-9a26-139b75ffaff3,generalpurpose.family,available,9.99,,medium,low,15,name.com,,,
@@ -613,8 +613,8 @@ e204823f-24b6-40d2-89bf-a80a48e7da49,wave.family,available,9.99,,high,medium,4,n
 f243789c-e049-481c-b004-35bd494e1f94,uncontrollable.family,available,9.99,,medium,low,14,name.com,,,
 ff692e44-3a55-4e1f-9656-ae41f7a3d1c2,bravery.family,available,9.99,,high,low,7,name.com,,,
 a4af3dfa-1eba-49a9-91cf-bacfe0df55bd,drawn.family,available,9.99,,medium,low,5,name.com,,,
-786ffb50-4ce9-4b0d-b0dd-b2b35362fe29,begin.family,available,9.99,50.99,medium,low,5,name.com,,,15/09/2026 05:53
-4bcd6838-973d-4b94-a85d-3c6d54d4ceb4,facts.family,available,9.99,50.99,medium,low,5,name.com,,,14/09/2026 14:49
+786ffb50-4ce9-4b0d-b0dd-b2b35362fe29,begin.family,available,39.99,39.99,medium,low,5,namesilo,,,19/09/2026 05:29
+4bcd6838-973d-4b94-a85d-3c6d54d4ceb4,facts.family,available,39.99,39.99,medium,low,5,namesilo,,,19/09/2026 02:38
 88e5dd1d-a484-4d29-8e8c-d9a791e183da,abysmal.family,available,9.99,50.99,low,low,7,name.com,,,
 8daa7d1c-c0a8-4c63-9222-5bdfc40f2e84,starred.family,available,9.99,50.99,low,low,7,name.com,,,07/08/2026 08:52
 feb92609-9f6c-4612-8b87-6499e3bb984c,oneyearold.family,available,9.99,,high,low,12,name.com,,,
@@ -637,7 +637,7 @@ b5b3628d-d69a-4f4a-8b24-7eca8599ac6d,scorched.family,available,9.99,50.99,low,lo
 3d8663d6-0288-4be4-ad1d-ae691bde989d,beatific.family,available,9.99,50.99,medium,low,8,name.com,,,
 ee06d240-e332-409b-a5ac-b1d7054c875d,frozen.family,available,9.99,,high,low,6,name.com,,,
 bdab9636-31e4-4e45-a312-f1222ee40693,lxvi.family,available,9.99,50.99,low,low,4,name.com,,,
-8dd19952-2726-4679-8818-0114b41fa518,SouthCarolina.family,premium,1107,1107,low,low,14,namesilo,,,
+8dd19952-2726-4679-8818-0114b41fa518,southcarolina.family,premium,1107,1107,low,low,14,namesilo,,,
 a741ebea-bf6a-4ea9-80e5-9bd8f6391394,bestloved.family,available,9.99,,high,low,10,name.com,,,
 0c5a981f-f75e-4fed-a7b3-72affa7fd9bb,stand.family,available,9.99,,high,low,5,name.com,,,
 88d7063f-9197-4ce9-9f8b-b7cc9d37826e,abreast.family,available,9.99,50.99,low,low,7,name.com,,,
@@ -646,7 +646,7 @@ addf1e92-6818-4a83-859c-a30890bbd5cc,biteme.family,available,9.99,,medium,low,7,
 a57eebb7-cae2-4c8c-bde6-41a5a2048742,airplane.family,premium,242,242,high,low,8,namesilo,,,
 3c3accd7-087a-4779-aed6-aaae0d2edf64,eleventh.family,available,9.99,50.99,low,low,8,name.com,,,
 2732fd12-e9a3-4249-b7c0-55ddc239b6bb,ataloss.family,available,9.99,50.99,low,low,9,name.com,,,07/08/2026 10:58
-8c37e00f-039b-4fa9-aa7f-2006bab179c9,IamwhatIam.family,available,9.99,,medium,low,14,name.com,,,
+8c37e00f-039b-4fa9-aa7f-2006bab179c9,iamwhatiam.family,available,9.99,,medium,low,14,name.com,,,
 a9f7ff1e-40cd-4a0e-a179-5698d6ff2a23,shorts.family,available,9.99,,high,low,6,name.com,,,
 8db7a41d-ff42-4140-8280-de1eaf65a110,accentual.family,available,9.99,50.99,low,low,9,name.com,,,
 f9327bdd-9123-43d4-9afe-d43c3a55ce75,calendarclock.family,available,9.99,,high,low,14,name.com,,,
@@ -662,7 +662,7 @@ bd9722c7-c7d4-48bd-ae95-e306008c2aa8,abiding.family,available,9.99,50.99,high,lo
 8479265a-9505-436e-964c-020cf1d57b55,acknowledged.family,available,9.99,,medium,low,12,name.com,,,
 c78de17d-c60d-45d3-9801-ecee6a54bd6c,producing.family,available,9.99,,low,low,9,name.com,,,
 37514d95-bd62-45e0-94e8-9aa192d306c8,gratitude.family,available,9.99,,high,low,9,name.com,,,
-b191cdf1-eb47-4243-93da-7e7c08ace150,midSeptember.family,available,9.99,,high,low,13,name.com,,,
+b191cdf1-eb47-4243-93da-7e7c08ace150,midseptember.family,available,9.99,,high,low,13,name.com,,,
 0256fe91-71a2-4981-8c37-afb4b9c5739d,underestimate.family,available,9.99,,high,low,13,name.com,,,
 f6bcec60-ab25-4a22-b3bf-c4f10a536671,oval.family,available,9.99,50.99,medium,low,4,name.com,,,
 75cae388-2219-4fe0-9ad3-aada2e961190,lowered.family,available,9.99,,medium,low,7,name.com,,,
@@ -690,10 +690,10 @@ a2449362-ad0b-4754-97df-68331859210f,howoldareyou.family,available,9.99,,medium,
 00980088-1d59-4e01-aab1-836e6538f52f,leavethedooropen.family,available,9.99,,high,low,19,name.com,,,
 594b6064-1201-4afc-b7c8-4b95c2b09d30,funnylooking.family,available,9.99,,medium,low,13,name.com,,,
 ab356064-962b-4184-8dc0-46a9c9f06221,transparent.family,available,9.99,,high,low,11,name.com,,,
-e95097cc-ee33-48d8-a4e1-660dd207db92,Astudent.family,available,9.99,,high,low,9,name.com,,,
+e95097cc-ee33-48d8-a4e1-660dd207db92,astudent.family,available,9.99,,high,low,9,name.com,,,
 0371acc9-ce87-490e-8e06-cd8388ec7a45,oatmeal.family,available,9.99,,high,low,7,name.com,,,
 14c44392-0afe-4415-af8b-12ccf52ca8d7,rated.family,available,9.99,,medium,low,5,name.com,,,
-bd00e048-b8d1-4e08-985e-b6b3bcb75f57,Godforbid.family,available,9.99,,medium,low,10,name.com,,,
+bd00e048-b8d1-4e08-985e-b6b3bcb75f57,godforbid.family,available,9.99,,medium,low,10,name.com,,,
 97a67965-4bdb-4e9f-9a64-395bbc1ffc56,pray.family,resell,,,medium,low,4,"Global Domains International, Inc. DBA DomainCostClub.com",20/09/2021 16:35,20/09/2026 16:35,
 781299bc-4743-46c6-a59f-865288d37370,algolagnic.family,available,9.99,50.99,low,low,10,name.com,,,
 415ee834-16ad-4354-95b9-955967233af4,ofcolor.family,available,9.99,,low,low,8,name.com,,,
@@ -735,15 +735,15 @@ ebc26a42-5ec5-41ca-93cc-fc6188821068,rulesarerules.family,available,9.99,,medium
 b34cb173-605b-40c9-990c-3321bf652ab4,whitevinegar.family,available,9.99,,low,low,13,name.com,,,
 f91d43f1-a973-4707-98cd-6b8287ecbe03,bahamas.family,available,,,high,low,7,,,,
 63ef3eec-c7eb-40fc-af3a-6282c1197364,fanclub.family,available,9.99,,high,low,8,name.com,,,
-e195beab-255d-44f6-a631-103db7096c0d,LGBTQ.family,premium,1107,1107,high,low,5,namesilo,,,
-ca59229b-fcef-416d-ab5f-185338a7e68f,BlackPlague.family,available,9.99,,low,low,12,name.com,,,
+e195beab-255d-44f6-a631-103db7096c0d,lgbtq.family,premium,1107,1107,high,low,5,namesilo,,,
+ca59229b-fcef-416d-ab5f-185338a7e68f,blackplague.family,available,9.99,,low,low,12,name.com,,,
 a37b6223-ee66-43a7-a507-1d5d730c8445,slept.family,available,9.99,,low,low,5,name.com,,,
 cac72f7f-1e29-44be-98b5-9234f6ff419e,voicecall.family,available,9.99,,high,low,10,name.com,,,
 23618a99-8353-45ce-aef1-58460e0157e2,terrible.family,premium,118.8,118.8,high,low,8,namesilo,,,
 c0c9281b-71a7-4197-abfb-999ee9c6f70b,nassau.family,premium,118.8,118.8,high,low,6,namesilo,,,
 94f76c0b-76bd-4d45-ae56-38887bc8964f,construction.family,premium,78,78,medium,low,12,namecheap,,,
 ef2e462f-9ed8-4b87-b3d7-1a2023f036fb,agone.family,available,9.99,50.99,low,low,5,name.com,,,
-eee23957-d50a-46c8-95e0-619a363578e5,movie.family,premium,3125,,high,low,5,name.com,,,
+eee23957-d50a-46c8-95e0-619a363578e5,movie.family,premium,3450,3450,medium,low,5,namesilo,,,20/09/2026 03:25
 57ab930e-3d7e-4e64-866d-629abb49a434,having.family,premium,71.4,71.4,high,low,6,namesilo,,,
 614009dc-c51d-4997-b278-aeea194f4f0d,sat.family,premium,242,242,high,low,3,namesilo,,,
 e349eef5-2347-490f-a356-ca0d10b8405e,peeved.family,available,9.99,50.99,low,low,6,name.com,,,
@@ -813,7 +813,7 @@ fb0fc2fc-18bc-4664-ba32-877a65aa032b,myapologies.family,available,9.99,,high,low
 95bf048b-7b16-4974-9807-680f1fcddec3,xoxoxo.family,available,9.99,,high,low,6,name.com,,,
 5f5a93b2-7152-4e52-82ba-1c1da1252c48,holdoff.family,available,9.99,,medium,low,8,name.com,,,
 bf4b75b9-5bb8-49b9-b98a-6ec0318953a3,adverbial.family,available,9.99,50.99,low,low,9,name.com,,,
-9d01d1eb-14e3-4c49-8e15-570c82ace4ef,Netflix.family,available,,,high,medium,7,,,,
+9d01d1eb-14e3-4c49-8e15-570c82ace4ef,netflix.family,available,,,high,medium,7,,,,
 f8d544e2-5b53-471c-b9e7-c8a51cfbac2f,pancreas.family,available,9.99,,medium,low,8,name.com,,,
 3d66d95b-5a59-4251-9654-a8fe8fab33ad,massage.family,available,9.99,,high,low,7,name.com,,,
 2a23e13c-a2b5-44cf-a574-f47d8786634a,moderation.family,available,9.99,,high,low,10,name.com,,,
@@ -855,7 +855,7 @@ f319812f-a1e8-4faf-a6b0-1e3d84a2df96,bid.family,available,9.99,,high,low,3,name.
 09ae6371-f44d-4f44-baa5-e6d2c58dcf0f,own.family,available,,,high,low,3,,,,
 035288d1-3a2f-45ee-a424-704f5246bb90,denial.family,available,9.99,,high,low,6,name.com,,,
 7bd03393-5b49-44b7-933e-79f67d2dfb2f,biological.family,premium,1107,1107,high,low,10,namesilo,,,
-d48cc0e5-2dd6-42fb-aee5-5a4ed89c8e52,Ithinkso.family,available,9.99,,medium,low,10,name.com,,,
+d48cc0e5-2dd6-42fb-aee5-5a4ed89c8e52,ithinkso.family,available,9.99,,medium,low,10,name.com,,,
 15d620b0-0aae-46f7-8ea2-50a707001150,atbottom.family,available,9.99,,medium,low,9,name.com,,,
 7dd321ab-e17f-47da-9f62-081a467166fd,youknowwhat.family,available,9.99,,low,low,13,name.com,,,
 25cbe85a-9874-4879-a2e8-8c72584a7340,overhang.family,available,9.99,50.99,low,low,8,name.com,,,09/08/2026 08:28
@@ -871,7 +871,7 @@ bb4c28dd-89f9-4696-b655-33871c16f73f,asthecasemaybe.family,available,9.99,,mediu
 7da29546-b716-415d-9ae2-65de05fac472,migrate.family,available,9.99,,high,low,7,name.com,,,
 7aeb7c80-0bd4-44d3-a9e5-d1b4c5cc1fe6,carnival.family,premium,118.8,118.8,high,low,8,namesilo,,,
 5f7e6adf-6e0d-4f1a-9b4e-0b214a1b617f,waste.family,available,9.99,,high,low,5,name.com,,,
-b161c51c-5a13-4e4a-b147-51f555d49f6c,Fingers.family,available,9.99,,medium,low,7,name.com,,,
+b161c51c-5a13-4e4a-b147-51f555d49f6c,fingers.family,available,9.99,,medium,low,7,name.com,,,
 bca667ed-29bf-4ac0-b0dd-9298a68ba101,valley.family,available,9.99,,medium,low,6,name.com,,,
 6cf687b1-2f24-47c9-bb0c-48cc850ebda7,bust.family,available,9.99,,high,low,4,name.com,,,
 0231ee72-f6e8-4162-9591-5760ecd07754,stewart.family,premium,3125,,medium,low,7,name.com,,,
@@ -890,7 +890,7 @@ b422d9b3-1019-42af-ae9b-6eba68d35d1c,previous.family,available,9.99,,high,low,8,
 10b21e58-ae1b-4f97-9290-20156d08731e,thank.family,available,9.99,,high,low,5,name.com,,,
 7f1d596d-07cc-46cc-a91a-08339a36900e,convenient.family,available,9.99,,high,low,10,name.com,,,
 3a08f4bd-a750-4a36-a527-5d89e5e8d4f3,awninged.family,available,9.99,50.99,low,low,8,name.com,,,08/08/2026 01:30
-09ee5c2d-ff5f-43ec-bc83-5cddf9b835dd,Ellen.family,available,9.99,,high,low,5,name.com,,,
+09ee5c2d-ff5f-43ec-bc83-5cddf9b835dd,ellen.family,available,9.99,,high,low,5,name.com,,,
 822f2e4b-c6fe-4ab9-9bab-771c761db17a,nostrils.family,available,9.99,,low,low,8,name.com,,,
 9ebc4b40-b611-4665-bec9-29a7d3d1d929,atactic.family,available,9.99,50.99,low,low,7,name.com,,,07/08/2026 12:37
 ca313a65-5740-4b46-b8d8-26e428f78843,troika.family,available,9.99,50.99,low,low,6,name.com,,,
@@ -916,7 +916,7 @@ d25f9505-ee68-41bb-b08f-d20e8aaf4871,stood.family,available,9.99,,low,low,5,name
 8d8acec1-facd-4749-9fd7-a6aa64b245b3,destined.family,available,9.99,50.99,high,low,8,name.com,,,
 76230940-b56c-433f-a249-9c1fcb46fff2,adequate.family,available,9.99,50.99,high,low,8,name.com,,,
 698a57ed-7b3f-4a1b-b52f-13799d8eceb0,drivethru.family,available,9.99,,high,low,10,name.com,,,
-a11a7e9e-967f-4fb4-824d-bad091a72b99,USdollar.family,available,9.99,,high,low,9,name.com,,,
+a11a7e9e-967f-4fb4-824d-bad091a72b99,usdollar.family,available,9.99,,high,low,9,name.com,,,
 fda163db-7bd6-4bd9-b0fa-0da5ec13890f,hannukah.family,available,9.99,,medium,low,8,name.com,,,
 e264956a-d0e6-4651-93d5-f98d6c15abcd,kilobyte.family,available,9.99,,high,low,8,name.com,,,
 2e6d2a0d-f4a9-435d-b812-3a28726d2e22,bigidea.family,available,9.99,,medium,low,8,name.com,,,
@@ -943,12 +943,12 @@ ce2eed88-a838-4261-96b3-6ed9f6dc1ca9,willingness.family,available,9.99,,medium,l
 00a9b263-29fd-4ad3-9285-0776846735f1,mountain.family,available,,,high,low,8,,,,
 a11f538c-4328-42d2-a366-171c8cdd8ccc,showaleg.family,available,9.99,,low,low,10,name.com,,,
 3b9cf122-4d59-4160-85d2-1417cb28d96d,grandniece.family,available,9.99,,high,low,10,name.com,,,
-b59f265d-7ed1-40c7-b1d8-7e6096a3604e,dot.family,premium,3250,3250,medium,medium,3,namecheap,,,13/09/2026 03:22
+b59f265d-7ed1-40c7-b1d8-7e6096a3604e,dot.family,premium,3450,3450,medium,low,3,namesilo,,,19/09/2026 16:13
 20ee56b5-794b-4d4b-b023-313fd5ba70be,needle.family,available,9.99,,medium,low,6,name.com,,,
 64782f44-7ecf-40fd-93f0-9663ae0ce1fa,mouthtomouth.family,available,9.99,,low,low,14,name.com,,,
 31ebab51-eece-49a0-b906-c3c6401645ad,jail.family,premium,71.4,71.4,high,low,4,namesilo,,,
-6c2249bb-c2c5-450d-b8aa-d30fbe6f3a85,Snapchat.family,available,9.99,,high,low,8,name.com,,,
-8e53cb4a-e05c-477f-a425-0413de726488,panel.family,available,39.99,39.99,medium,low,5,namesilo,,,14/09/2026 02:59
+6c2249bb-c2c5-450d-b8aa-d30fbe6f3a85,snapchat.family,available,9.99,,high,low,8,name.com,,,
+8e53cb4a-e05c-477f-a425-0413de726488,panel.family,available,39.99,39.99,low,low,5,namesilo,,,19/09/2026 11:40
 91b50d48-33c1-4df6-886a-f9c31ab16df3,act.family,premium,500,,high,low,3,name.com,,,
 77cb4d73-c22c-45fc-aa85-8af8d22d101f,aroused.family,available,9.99,50.99,low,low,7,name.com,,,
 ec7ad3cf-59c2-4489-b088-9753a3c251b0,steak.family,premium,250,,high,low,5,name.com,,,
@@ -979,9 +979,8 @@ d814bdf4-ec3e-4519-a306-5c9dbb2e0292,zesty.family,available,9.99,50.99,low,low,5
 85988bdd-51a7-4c97-b4ec-bc64c4f04ba0,high.family,premium,500,500,medium,low,4,name.com,,,
 3b848a12-f244-4160-8d36-96a5862c679f,cxlv.family,available,9.99,50.99,low,low,4,name.com,,,
 03aad6a4-dfd8-468e-ad73-7055d86e8b55,aeschylean.family,available,9.99,50.99,low,low,10,name.com,,,
-ad38323c-508e-4187-80dc-1dfd02878c77,Nutella.family,available,,,high,low,7,,,,
 d26b1877-01a2-4c82-8e39-d388f33c9756,acceptive.family,available,9.99,50.99,low,low,9,name.com,,,
-47055c9b-d8f1-4dd0-ad9d-9f63e66718d5,restrict.family,available,39.99,39.99,low,low,8,namesilo,,,14/09/2026 04:21
+47055c9b-d8f1-4dd0-ad9d-9f63e66718d5,restrict.family,available,39.99,39.99,low,low,8,namesilo,,,19/09/2026 17:10
 ef190517-4c0d-4a12-b563-90baacdd3a41,zero.family,premium,75,75,high,medium,4,name.com,,,
 3c511165-97be-414a-ab92-5b4eb48ef503,outandabout.family,available,9.99,,low,low,13,name.com,,,
 cb47c5af-646f-40f1-92c9-d0741b18fd3f,answer.family,premium,75,,high,low,6,name.com,,,
@@ -999,3 +998,4 @@ dd2da83b-5761-4f93-b6fd-f90290f485ca,alimental.family,available,9.99,50.99,low,l
 e1eb2305-563b-4f45-9166-e0aad82b604a,insulting.family,available,9.99,50.99,high,low,9,name.com,,,
 cffdfbe0-87fc-49b7-bbf3-195162dcac93,flee.family,available,9.99,,medium,low,4,name.com,,,
 e0a7dd80-577c-415f-8576-90c6c824d211,laborious.family,available,9.99,50.99,low,low,9,name.com,,,06/08/2026 17:00
+b6248820-051f-416b-92e2-36e6587a4992,baggy.family,available,9.99,,high,low,5,name.com,,,
