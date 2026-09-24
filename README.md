@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .family one-word domains fr
 
 **Public extract:** 1,000 rows · **Live catalog:** 29,956 domains · **Median ask:** $50.39 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-09-23
+**Last updated:** 2026-09-24
 **Canonical page:** `https://unique.domains/domains/tld/family`
 **Best for:** founders, investors, studios
 
@@ -65,10 +65,10 @@ print(df.head())
 | domain        | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                                 |
 | ------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------------------------------------------------- |
 | bid.family    | available | $9.99     | —             | high           | low    | 3      | name.com                                                  |
-| cool.family   | resell    | —         | —             | high           | low    | 4      | Dynadot Inc                                               |
+| bot.family    | resell    | —         | —             | medium         | low    | 3      | Edomains LLC                                              |
 | aaa.family    | premium   | $128.70   | $128.70       | medium         | medium | 3      | namecheap                                                 |
 | con.family    | available | $9.99     | —             | high           | low    | 3      | name.com                                                  |
-| cute.family   | resell    | —         | —             | high           | low    | 4      | NameCheap, Inc.                                           |
+| cute.family   | resell    | —         | —             | medium         | low    | 4      | NameCheap, Inc.                                           |
 | act.family    | premium   | $500      | —             | high           | low    | 3      | name.com                                                  |
 | did.family    | available | $9.99     | —             | high           | low    | 3      | name.com                                                  |
 | pray.family   | resell    | —         | —             | medium         | low    | 4      | Global Domains International, Inc. DBA DomainCostClub.com |
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .FAMILY One-Word Domains*. Version 2026-09-23. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .FAMILY One-Word Domains*. Version 2026-09-24. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
