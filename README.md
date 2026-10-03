@@ -1,10 +1,10 @@
-# Available .FAMILY One-Word Domains (28,380)
+# Available .FAMILY One-Word Domains (30,355)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-28%2C380%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-30%2C355%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 Daily-updated public extract of available and resale .family one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **28,380 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **30,355 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 28,380 domains · **Median ask:** $66.31 · **High-demand under $2,500:** 8
+**Public extract:** 1,000 rows · **Live catalog:** 30,355 domains · **Median ask:** $64.79 · **High-demand under $2,500:** 8
 
-**Last updated:** 2026-10-02
+**Last updated:** 2026-10-03
 **Canonical page:** `https://unique.domains/domains/tld/family`
 **Best for:** founders, investors, studios
 
@@ -70,20 +70,20 @@ print(df.head())
 | ain.family     | available | $9.99     | $50.99        | high           | low    | 3      | name.com                                                  |
 | fab.family     | resell    | —         | —             | high           | low    | 3      | Dynadot Inc                                               |
 | crt.family     | premium   | $118.80   | $118.80       | high           | low    | 3      | namesilo                                                  |
-| aug.family     | available | $9.99     | $50.99        | high           | low    | 3      | name.com                                                  |
-| sage.family    | resell    | —         | —             | high           | medium | 4      | Sav.com, LLC - 12                                         |
-| cta.family     | premium   | $102.67   | $102.67       | high           | low    | 3      | spaceship                                                 |
 | azt.family     | available | $39.99    | $39.99        | high           | low    | 3      | namesilo                                                  |
 | energy.family  | resell    | —         | —             | high           | medium | 6      | Squarespace Domains II LLC                                |
-| dss.family     | premium   | $118.80   | $118.80       | high           | medium | 3      | namesilo                                                  |
+| cta.family     | premium   | $102.67   | $102.67       | high           | low    | 3      | spaceship                                                 |
 | bjs.family     | available | $39.99    | $39.99        | medium         | low    | 3      | namesilo                                                  |
 | wedding.family | resell    | —         | —             | high           | low    | 7      | Global Domains International, Inc. DBA DomainCostClub.com |
-| fly.family     | premium   | $260      | $260          | high           | medium | 3      | namecheap                                                 |
-| emg.family     | available | $31.25    | $31.25        | high           | low    | 3      | spaceship                                                 |
+| dss.family     | premium   | $118.80   | $118.80       | high           | medium | 3      | namesilo                                                  |
+| cfb.family     | available | $40       | —             | high           | low    | 3      | unstoppable                                               |
 | ips.family     | premium   | $99.50    | —             | high           | low    | 3      | unstoppable                                               |
+| emg.family     | available | $31.25    | $31.25        | high           | low    | 3      | spaceship                                                 |
+| our.family     | premium   | $3,450    | $3,450        | high           | medium | 3      | namesilo                                                  |
 | ent.family     | available | $31.25    | $31.25        | high           | low    | 3      | spaceship                                                 |
-| our.family     | premium   | $3,125    | —             | high           | medium | 3      | name.com                                                  |
+| psp.family     | premium   | $128.70   | $128.70       | high           | low    | 3      | namecheap                                                 |
 | hum.family     | available | $31.25    | $31.25        | high           | low    | 3      | spaceship                                                 |
+| rip.family     | premium   | $1,107    | $1,107        | high           | low    | 3      | namesilo                                                  |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 28,380 live domains                        |
+| 1,000-row public sample | 30,355 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
 | Basic exported fields   | 8 high-demand names under $2,500           |
 | No persistence          | Radar, saved search, and alerts            |
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .FAMILY One-Word Domains*. Version 2026-10-02. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .FAMILY One-Word Domains*. Version 2026-10-03. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
